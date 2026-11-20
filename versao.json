@@ -1,8 +1,8 @@
 {
   "versao": "2.2.0",
   "minima": "",
-  "url": "",
-  "sha256": "",
-  "mensagem": "Versão 2.2.0",
+  "url": "https://github.com/provere-contabilidade/emissor-nfse-provere/releases/download/v2.2.0/Emissor-NFS-e-2.2.0.exe",
+  "sha256": "bb217f2251b3b1b94e0a23b22dda1c97ed7ee021012f6304cc159d2081263b26",
+  "mensagem": "Nova versão 2.2.0 disponível.",
   "novo_endereco": ""
 }
