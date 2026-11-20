@@ -1,8 +1,8 @@
 {
   "versao": "2.2.6",
   "minima": "",
-  "url": "https://github.com/provere-contabilidade/emissor-nfse-provere/releases/download/v2.2.6/Emissor-NFS-e-2.2.6.exe",
+  "url": "https://github.com/provere-contabilidade/emissor-nfse-provere/releases/download/v2.2.6/Emissor.NFS-e.exe",
   "sha256": "bfad5718f0f7da58a08827d6b808f815edee7fcc7bd01b49293d2aab2a36e1b7",
-  "mensagem": "Nova versão 2.2.6 disponível.",
+  "mensagem": "Nova versão 2.2.6: corrige a reabertura após atualizar, nome fixo do programa e aviso na Cobrança.",
   "novo_endereco": ""
 }
