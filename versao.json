@@ -1,8 +1,8 @@
 {
-  "versao": "2.2.5",
+  "versao": "2.2.6",
   "minima": "",
-  "url": "https://github.com/provere-contabilidade/emissor-nfse-provere/releases/download/v2.2.5/Emissor-NFS-e-2.2.5.exe",
-  "sha256": "8f01d5180b294303fdf608cba374f3f6eadc63d12fb82b42d92ca30583cbfab8",
-  "mensagem": "Nova versão 2.2.5: notas emitidas no CPF, inscrição municipal, numeração, {mes}/{ano} e ícone de recorrente.",
+  "url": "https://github.com/provere-contabilidade/emissor-nfse-provere/releases/download/v2.2.6/Emissor-NFS-e-2.2.6.exe",
+  "sha256": "bfad5718f0f7da58a08827d6b808f815edee7fcc7bd01b49293d2aab2a36e1b7",
+  "mensagem": "Nova versão 2.2.6 disponível.",
   "novo_endereco": ""
 }
