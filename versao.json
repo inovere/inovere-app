@@ -1,8 +1,8 @@
 {
-  "versao": "2.3.0",
+  "versao": "2.3.1",
   "minima": "",
-  "url": "https://github.com/inovere/inovere-app/releases/download/v2.3.0/Emissor-NFS-e-2.3.0.exe",
-  "sha256": "b8b414d67fde4f50d4e7e0a57fd5bdf7daf54bd2404a508181e442fbae9a7b02",
-  "mensagem": "Nova versão 2.3.0 disponível.",
+  "url": "https://github.com/inovere/inovere-app/releases/download/v2.3.1/inovere-2.3.1.exe",
+  "sha256": "e727abb76dd6b693a1d1e1e15da53a29cc420273b281819d75f31dbf009f92b2",
+  "mensagem": "Nova versão 2.3.1 disponível.",
   "novo_endereco": ""
 }
