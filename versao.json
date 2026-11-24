@@ -1,8 +1,8 @@
 {
-  "versao": "2.3.1",
+  "versao": "3.0.0",
   "minima": "2.3.1",
-  "url": "https://github.com/inovere/inovere-app/releases/download/v2.3.1/inovere-2.3.1.exe",
-  "sha256": "e727abb76dd6b693a1d1e1e15da53a29cc420273b281819d75f31dbf009f92b2",
-  "mensagem": "Nova versão 2.3.1 disponível.",
+  "url": "https://github.com/inovere/inovere-app/releases/download/v.3.0.0/inovere-3.0.0.exe",
+  "sha256": "6b1a92aa8490d8e514b0c4b3211f49ea2f1b8410b74a8673b96d884e675c31db",
+  "mensagem": "Inovere 3.0: janela nova, Configurações em abas, busca de CNPJ na Receita, procuração no certificado, filtros de ambiente e tipo, importar XML único e exportação organizada.",
   "novo_endereco": ""
 }
