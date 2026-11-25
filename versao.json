@@ -1,8 +1,8 @@
 {
-  "versao": "3.0.2",
-  "minima": "2.3.1",
-  "url": "https://github.com/inovere/inovere-app/releases/download/v3.0.2/inovere-3.0.2.exe",
-  "sha256": "c9a05e055a2e9c77d8cfe77237c066bd4851ac88ea4b827b3366126f0e9a7630",
-  "mensagem": "Inovere 3.0.2: código de benefício fiscal (cBenef) na NF-e, botão de atualizar no menu e na bandeja, nota importada aparece na hora e selo BETA no iCobra.",
+  "versao": "3.0.3",
+  "minima": "",
+  "url": "https://github.com/inovere/inovere-app/releases/download/v3.0.3/inovere-3.0.3.exe",
+  "sha256": "2dd9bd6297e0a041422832cbc164f9b5fc91930a82bbda2c68183a17255d33fd",
+  "mensagem": "Nova versão 3.0.3 disponível.",
   "novo_endereco": ""
 }
