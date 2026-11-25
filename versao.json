@@ -1,8 +1,8 @@
 {
   "versao": "3.0.3",
-  "minima": "",
+  "minima": "2.3.1",
   "url": "https://github.com/inovere/inovere-app/releases/download/v3.0.3/inovere-3.0.3.exe",
-  "sha256": "2dd9bd6297e0a041422832cbc164f9b5fc91930a82bbda2c68183a17255d33fd",
-  "mensagem": "Nova versão 3.0.3 disponível.",
+  "sha256": "COPIE AQUI O SHA256 DO SEU versao.json GERADO",
+  "mensagem": "Inovere 3.0.3: DANFE no novo leiaute da Reforma Tributária (obrigatório em 01/12), NF-e do Simples sem as rejeições 531 e 1021, conferência completa antes de emitir com a tela \"Corrija antes de emitir\", desconto, frete e outras despesas no produto e janela \"Processando\" ao importar, exportar e consultar.",
   "novo_endereco": ""
 }
