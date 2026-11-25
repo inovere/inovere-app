@@ -1,8 +1,8 @@
 {
-  "versao": "3.0.1",
+  "versao": "3.0.2",
   "minima": "2.3.1",
-  "url": "https://github.com/inovere/inovere-app/releases/download/v3.0.1/inovere-3.0.1.exe",
-  "sha256": "b8d74fdb7a1996ca6173a80b240ad93dfd6b5da4e04801675994f4da570b4e2a",
-  "mensagem": "Inovere 3.0.1: cadastro da primeira empresa corrigido, o programa passa a se chamar Inovere.exe, iCobra (boletos com Pix pelo Inter, à vista ou parcelados), e-mail automático após emitir e ajustes de telas.",
+  "url": "https://github.com/inovere/inovere-app/releases/download/v3.0.2/inovere-3.0.2.exe",
+  "sha256": "c9a05e055a2e9c77d8cfe77237c066bd4851ac88ea4b827b3366126f0e9a7630",
+  "mensagem": "Inovere 3.0.2: código de benefício fiscal (cBenef) na NF-e, botão de atualizar no menu e na bandeja, nota importada aparece na hora e selo BETA no iCobra.",
   "novo_endereco": ""
 }
