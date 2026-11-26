@@ -1,8 +1,8 @@
 {
-  "versao": "3.0.3",
+  "versao": "3.0.4",
   "minima": "2.3.1",
-  "url": "https://github.com/inovere/inovere-app/releases/download/v3.0.3/inovere-3.0.3.exe",
-  "sha256": "COPIE AQUI O SHA256 DO SEU versao.json GERADO",
-  "mensagem": "Inovere 3.0.3: DANFE no novo leiaute da Reforma Tributária (obrigatório em 01/12), NF-e do Simples sem as rejeições 531 e 1021, conferência completa antes de emitir com a tela \"Corrija antes de emitir\", desconto, frete e outras despesas no produto e janela \"Processando\" ao importar, exportar e consultar.",
+  "url": "https://github.com/inovere/inovere-app/releases/download/v3.0.4/inovere-3.0.4.exe",
+  "sha256": "4fbfec55a5105aa59d50aac1a9b70ee4eb5b6c9d332c254a2304bef3831abf3b",
+  "mensagem": "Inovere 3.0.4: NF-e para emitentes de todos os estados (MG, RJ, PR e demais), ICMS-ST e redução de base (CST 10, 20, 30, 70, 90 e CSOSN 201, 202, 203 e 900), devolução de compra e de venda, emissão em abas com todos os campos da nota (pagamentos, duplicatas, transporte, pedido, IPI), tributos aproximados do IBPT, tabelas CEST, cClassTrib e cBenef, manifestação em lote com seleção rápida, NFS-e em abas com os campos que faltavam, Configurações separadas entre empresa e sistema, e atualização mais estável.",
   "novo_endereco": ""
 }
